@@ -3,7 +3,7 @@ package cn.zhang.netty.c1;
 import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
 
-import static cn.zhang.netty.c1.ByteBufferUtil.debugAll;
+import static cn.zhang.netty.ByteBufferUtil.debugAll;
 
 /**
  * @ClassName TestByteBufferString

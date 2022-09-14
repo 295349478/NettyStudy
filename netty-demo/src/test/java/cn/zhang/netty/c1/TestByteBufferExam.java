@@ -2,7 +2,7 @@ package cn.zhang.netty.c1;
 
 import java.nio.ByteBuffer;
 
-import static cn.zhang.netty.c1.ByteBufferUtil.debugAll;
+import static cn.zhang.netty.ByteBufferUtil.debugAll;
 
 /**
  * @ClassName TestByteBufferExam
