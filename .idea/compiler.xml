@@ -9,7 +9,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="netty-demo" />
         <module name="netty-demo (1) (org.example)" />
-        <module name="netty-hm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

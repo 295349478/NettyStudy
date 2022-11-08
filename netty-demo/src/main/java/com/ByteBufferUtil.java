@@ -1,4 +1,4 @@
-package cn.zhang.netty.c1;
+package com;
 
 import io.netty.util.internal.StringUtil;
 
